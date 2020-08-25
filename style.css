@@ -1,0 +1,30 @@
+/* Created Using Easy HTML v1.4.5 */
+/* https://play.google.com/store/apps/details?id=ak.andro.easyhtml */
+
+h {
+  color:#FFFFFF;
+}
+div{
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  margin-left: 5px;
+  background-color: #000000;
+}
+p { color:#C1FF0C;}
+h2 { color:#FFFFFF;}
+h4 { color:#F8ED1D;}
+.button {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 04px 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 4px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+h {font: "Brush Script MT;"}
